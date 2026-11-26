@@ -17,6 +17,10 @@ No AWS account is used. Everything talks to `http://localhost:4566` with dummy c
                                      kubectl delete node ► node returns
 ```
 
+### Article: [Launch an EKS cluster locally with Floci: no AWS account, no eksctl](https://dev.to/axololtos_30/launch-an-eks-cluster-locally-with-floci-no-aws-account-no-eksctl-1bok)
+
+### LinkedIn post: [Read the post](https://lnkd.in/p/g92UXdCq)
+
 ![Architecture](docs/architecture.png)
 
 Editable source: [docs/architecture.excalidraw](docs/architecture.excalidraw).
