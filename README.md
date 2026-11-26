@@ -17,8 +17,6 @@ No AWS account is used. Everything talks to `http://localhost:4566` with dummy c
                                      kubectl delete node ► node returns
 ```
 
-![Cover](docs/cover.png)
-
 ![Architecture](docs/architecture.png)
 
 Editable source: [docs/architecture.excalidraw](docs/architecture.excalidraw).
