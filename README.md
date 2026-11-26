@@ -21,6 +21,7 @@ No AWS account is used. Everything talks to `http://localhost:4566` with dummy c
 
 ### LinkedIn post: [Read the post](https://lnkd.in/p/g92UXdCq)
 
+# Architecture
 ![Architecture](docs/architecture.png)
 
 Editable source: [docs/architecture.excalidraw](docs/architecture.excalidraw).
